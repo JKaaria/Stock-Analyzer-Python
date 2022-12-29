@@ -4,4 +4,4 @@ pandas
 yfinance
 datetime
 plotly
-dateutil
+python-dateutil
